@@ -1,0 +1,12 @@
+C:\az-204\consoleapp\vconsoleapp\bin\Debug\netcoreapp3.0\vconsoleapp.exe
+C:\az-204\consoleapp\vconsoleapp\bin\Debug\netcoreapp3.0\vconsoleapp.deps.json
+C:\az-204\consoleapp\vconsoleapp\bin\Debug\netcoreapp3.0\vconsoleapp.runtimeconfig.json
+C:\az-204\consoleapp\vconsoleapp\bin\Debug\netcoreapp3.0\vconsoleapp.runtimeconfig.dev.json
+C:\az-204\consoleapp\vconsoleapp\bin\Debug\netcoreapp3.0\vconsoleapp.dll
+C:\az-204\consoleapp\vconsoleapp\bin\Debug\netcoreapp3.0\vconsoleapp.pdb
+C:\az-204\consoleapp\vconsoleapp\obj\Debug\netcoreapp3.0\vconsoleapp.csprojAssemblyReference.cache
+C:\az-204\consoleapp\vconsoleapp\obj\Debug\netcoreapp3.0\vconsoleapp.csproj.CoreCompileInputs.cache
+C:\az-204\consoleapp\vconsoleapp\obj\Debug\netcoreapp3.0\vconsoleapp.AssemblyInfoInputs.cache
+C:\az-204\consoleapp\vconsoleapp\obj\Debug\netcoreapp3.0\vconsoleapp.AssemblyInfo.cs
+C:\az-204\consoleapp\vconsoleapp\obj\Debug\netcoreapp3.0\vconsoleapp.dll
+C:\az-204\consoleapp\vconsoleapp\obj\Debug\netcoreapp3.0\vconsoleapp.pdb
